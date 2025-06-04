@@ -1,4 +1,4 @@
-# Human Detection for Trespassing Prevention (AI-Project AIF208)
+# Human Detection for Trespassing Prevention
 
 This repository hosts an **Artificial Intelligence project** specifically designed for **human detection to prevent trespassing**. It leverages the cutting-edge **YOLOv8 (You Only Look Once)** model, trained on a custom dataset to accurately identify human presence in surveillance or monitored areas.
 
